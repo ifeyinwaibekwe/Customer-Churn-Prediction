@@ -4,15 +4,16 @@
 
 
 ## Table of Contents
-- [Project Overview].(#project-overview).
-- [Project Objective].(#project-objective).
-- [Data Source].(#data-source).
-- [Data Preprocessing].(#data-preprocessing).
-- [Machine Learning Model].(#machine-learning-model).
-- [Evaluation Metrics].(#evaluation-metrics).
-- [Key Insights].(#key-insights).
-- [Conclusion].(#conclusion).
-- [Recommendations].(#recommendations).
+- [Project Overview](#project-overview)
+- [Project Objective](#project-objective)
+- [Data Source](#data-source)
+- [Data Preprocessing](#data-preprocessing)
+- [Machine Learning Model](#machine-learning-model)
+- [Evaluation Metrics](#evaluation-metrics)
+- [Key Insights](#key-insights)
+- [Conclusion](#conclusion)
+- [Recommendations](#recommendations)
+
 
 ## Project Overview
 This project focuses on developing a robust customer churn prediction system for ConnectTel Telecom Company to address the challenge of customer attrition. Leveraging advanced analytics and machine learning techniques, the system aims to accurately forecast customer churn, implement targeted retention initiatives, reduce customer attrition, enhance customer loyalty, and gain a competitive edge in the telecommunications industry.
