@@ -6,7 +6,7 @@
 ## Table of Contents
 - [Project Overview].(#project-overview)
 - [Project Objective].(#project-objective)
-- [Data SOurce].(#data-source)
+- [Data Source].(#data-source)
 - [Data Preprocessing].(#data-preprocessing)
 - [Machine Learning Model].(#machine-learning-model)
 - [Evaluation Metrics].(#evaluation-metrics)
